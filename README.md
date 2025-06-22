@@ -1,4 +1,4 @@
-# Email Summarization API
+# Email Summarization
 
 Bu projede, İngilizce e-posta metinlerinden anlamlı özetler çıkarmak için transformer tabanlı bir yapı kullandım.
 
