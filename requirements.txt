@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langdetect
+sentence-transformers
+nltk
+scikit-learn
